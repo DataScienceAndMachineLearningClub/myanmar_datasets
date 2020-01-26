@@ -1,0 +1,290 @@
+VARIABLE:	Year
+DESCRIPTION:	Year that accidents happen
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+	
+VARIABLE:	Month
+DESCRIPTION:	Month that accidents happen
+NOTE:	
+UNIT:	text
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+	
+VARIABLE:	Day
+DESCRIPTION:	Rate of accidents in Day
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+	
+VARIABLE:	Night
+DESCRIPTION:	Rate of accidents in Night
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+	
+VARIABLE:	Town
+DESCRIPTION:	Rate of accidents in Town 
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+	
+VARIABLE:	Village
+DESCRIPTION:	Rate of accidents in Village 
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+	
+VARIABLE:	Drug
+DESCRIPTION:	Rate of accidents by Drug 
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+	
+VARIABLE:	Careless Driving
+DESCRIPTION:	Rate of accidents by Careless Driving 
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+	
+VARIABLE:	Skilless Driver
+DESCRIPTION:	Rate of accidents by Skilless Driver
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+	
+VARIABLE:	Racing
+DESCRIPTION:	Rate of accidents by Racing 
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+	
+VARIABLE:	Careless Passenger
+DESCRIPTION:	Rate of accidents by Careless Passenger
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+	
+VARIABLE:	People
+DESCRIPTION:	Rate of accidents by People 
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Machine Error
+DESCRIPTION:	Rate of accidents by Machine Error
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+
+VARIABLE:	Diaster
+DESCRIPTION:	Rate of accidents by Diaster
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Driving License Present
+DESCRIPTION:	Rate of accidents by having driving License
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Driving License Absent
+DESCRIPTION:	Rate of accidents by not having Driving License
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Small Vehicle
+DESCRIPTION:	Rate of accidents by Small Vehicle
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Large Vehicle
+DESCRIPTION:	Rate of accidents by Large Vehicle
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Youth Collision
+DESCRIPTION:	Rate of accidents by Youth Collision
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Adult Collision
+DESCRIPTION:	Rate of accidents by Adult Collision
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Youth Death
+DESCRIPTION:	Rate of Youth Death by accidents
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Adult Death
+DESCRIPTION:	Rate of Adult Death by accidents
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Youth Injury
+DESCRIPTION:	Rate of Youth Injury by accidents  
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+
+VARIABLE:	Adult Injury
+DESCRIPTION:	Rate of Adult Injury by accidents  
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+
+VARIABLE:	Staff
+DESCRIPTION:	Rate of accidents by Staff  
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Public
+DESCRIPTION:	Rate of accidents by Public
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Student
+DESCRIPTION:	Rate of accidents by Student 
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Religious Person
+DESCRIPTION:	Rate of accidents by Religious Person  
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Bike
+DESCRIPTION:	Rate of accidents by Bike 
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Bicycle
+DESCRIPTION:	Rate of accidents by Bicycle 
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Pedestrian
+DESCRIPTION:	Rate of accidents by Pedestrian 
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
+
+VARIABLE:	Others
+DESCRIPTION:	Rate of accidents by Others(HtawLarGi,Farm Machines,ThoneBane etc.) 
+NOTE:	
+UNIT:	number
+YEAR:	2015-2019(June)
+LEVEL:	District
+SOURCE:	Mandalay Traffic Police
+RECONFIG.:	TAF
