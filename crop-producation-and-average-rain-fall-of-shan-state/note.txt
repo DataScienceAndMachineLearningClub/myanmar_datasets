@@ -1,0 +1,21 @@
+Contributed by: Data Science and Machine Learning Club
+
+About Data:
+Refers to power point slide
+
+Special Thanks:
+This data was collected as a part of Myanmar, My Country Data Collection Project.
+We would like to show our deep gratitude from the bottom of our heart to the ones metioned below-
+Hlaing Myat Nwe
+Nang Aeindray Kyaw
+Mi Than Tan Soe
+Phue Wai Wai Kyaw
+Shwe Yee Lin Lak
+for delivering a great effort to establish this dataset.
+
+Supervised By:
+Phyo Thu Htet
+
+#28 July 2019(sun) 
+#Last Modified:
+
