@@ -1,0 +1,138 @@
+VARIABLE: YEAR
+DESCRIPTION: -
+NOTE:
+UNIT:	number
+LEVEL:
+SOURCE :  POL township hospital
+RECONFIG  :  HSE
+
+VARIABLE: P_TYPE
+DESCRIPTION: Types of patient
+NOTE:
+UNIT:	text
+LEVEL:
+SOURCE:
+RECONFIG  :  HSE
+
+VARIABLE: TP_NAME
+DESCRIPTION:  Treatment center name
+NOTE:
+UNIT:	text
+LEVEL:
+SOURCE : POL township hospital
+RECONFIG  :  HSE
+
+VARIABLE: NOP_JAN
+DESCRIPTION:  Number of patients in January
+NOTE:
+UNIT:	number
+LEVEL:
+SOURCE : POL township hospital
+RECONFIG  :  HSE
+
+
+VARIABLE: NOP_FEB
+DESCRIPTION:  Number of patients in February
+NOTE:
+UNIT:	number
+LEVEL:
+SOURCE : POL township hospital
+RECONFIG  :  HSE
+
+VARIABLE: NOP_MAR
+DESCRIPTION:  Number of patients in March
+NOTE:
+UNIT:	number
+LEVEL:
+SOURCE : POL township hospital
+RECONFIG  :  HSE
+
+VARIABLE: NOP_APR
+DESCRIPTION:  Number of patients in April
+NOTE:
+UNIT:	number
+LEVEL:
+SOURCE : POL township hospital
+RECONFIG  :  HSE
+
+VARIABLE: NOP_MAY
+DESCRIPTION:  Number of patients in MAY
+NOTE:
+UNIT:	number
+LEVEL:
+SOURCE : POL township hospital
+RECONFIG  :  HSE
+
+VARIABLE: NOP_JUN
+DESCRIPTION:  Number of patients in June
+NOTE:
+UNIT:	number
+LEVEL:
+SOURCE : POL township hospital
+RECONFIG  :  HSE
+
+VARIABLE: NOP_JUL
+DESCRIPTION:  Number of patients in July
+NOTE:
+UNIT:	number
+LEVEL:
+SOURCE : POL township hospital
+RECONFIG  :  HSE
+
+VARIABLE: NOP_AUG
+DESCRIPTION:  Number of patients in August
+NOTE:
+UNIT:	number
+LEVEL:
+SOURCE : POL township hospital
+RECONFIG  :  HSE
+
+VARIABLE: NOP_SEP
+DESCRIPTION:  Number of patients in September
+NOTE:
+UNIT:	number
+LEVEL:
+SOURCE : POL township hospital
+RECONFIG  :  HSE
+
+VARIABLE: NOP_OCT
+DESCRIPTION:  Number of patients in October
+NOTE:
+UNIT:	number
+LEVEL:
+SOURCE : POL township hospital
+RECONFIG  :  HSE
+
+VARIABLE: NOP_NOV
+DESCRIPTION:  Number of patients in November
+NOTE:
+UNIT:	number
+LEVEL:
+SOURCE : POL township hospital
+RECONFIG  :  HSE
+
+VARIABLE: NOP_DEC
+DESCRIPTION:  Number of patients in December
+NOTE:
+UNIT:	number
+LEVEL:
+SOURCE : POL township hospital
+RECONFIG  :  HSE
+
+VARIABLE: TOTAL
+DESCRIPTION:  Number of total patients
+NOTE:
+UNIT:	number
+LEVEL:
+SOURCE : POL township hospital
+RECONFIG  :  HSE
+
+
+The following months can't provide data yet.
+1.June(2019)
+2.July(2019)
+3.August(2019)
+4.September(2019)
+5.Octover(2019)
+6.November(2019)
+7.December(2019)
